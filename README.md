@@ -2,6 +2,18 @@
 
 - RODO rozporządzenie o ochronie danych osobowych
 
+# ikonka
+https://www.flaticon.com/free-icon/health-insurance_3729142
+https://www.flaticon.com/free-icon/search_3729136
+https://www.flaticon.com/free-icon/heart_8095781
+https://www.flaticon.com/free-icon/dating-app_2513690
+https://www.flaticon.com/free-icon/chat_6363695
+https://www.flaticon.com/free-icon/love_3729178
+https://www.flaticon.com/packs/love-152
+https://www.flaticon.com/free-icon/life-protection_3307180
+https://www.flaticon.com/free-icon/life-insurance_3307230
+https://www.flaticon.com/packs/dating-app-32
+
 ## Cel aplikacji
 
 - docelowa grupa użytkownicy do których dzwoni fotowoltaika, darmowe badania stawów, oferty bitcoina, podszywajacy się pod bank etc.
