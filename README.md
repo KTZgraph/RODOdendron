@@ -35,6 +35,9 @@ https://www.flaticon.com/packs/dating-app-32
   "https://slick.ly/pl/632263172",
   "https://czyodebrac.pl/co-to-za-numer-dzwonil/123707000/",
   "https://who-called.eu/pl/825701210";
+  https://www.tellows.pl/num/236883235
+  https://tel-no.com/pl/236883235
+  https://worldgsm.pl/numery/kto-dzwonil/236883239
 ```
 
 - zebranie jak największej ilości screenów z atakami w formie przypominajacej serwis https://pinterest.com/
